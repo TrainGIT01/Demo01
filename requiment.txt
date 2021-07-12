@@ -1,0 +1,31 @@
+Web quản lý nhà hàng
+
+- Admin
+	+ Quản lý sản phẩm
+	+ Quản lý nhân viên
+	+ Quản lý nhà cung cấp
+	+ Quản lý bàn
+	+ Quản lý Đơn hàng
+	+ Quản lý đầu bếp
+	+ Quản lý feedback
+	+ Quản lý kho
+	+ Thống kê doanh thu ngày, tháng, năm
+	+ Thống kê đầu bếp nhiều lượt book nhất
+	+ Thống kê sản phẩm bán chạy nhất ngày, tháng, năm
+- User
+	+ Home(Thông tin)
+	+ Menu(Món ăn)
+	+ Account(Sign-up(Mail and FB), Sign-in, Quên mk)
+	+ Giỏ hàng(Trạng thái đơn hàng)
+	+ Liên hệ(thông tin nhà hàng, Gửi mail feedback)
+	+ Đầu bếp(Thông tin chi tiết của đầu bếp, đánh giá)
+	+ Đa ngôn ngữ
+	+ Đặt bàn(Đặt bàn, chọn đầu bếp, chọn món, chọn ngày, chọn giờ)
+	+ Tin tức
+	+ Giới thiệu
+	+ Tuyển dụng
+- Staff
+	+ Quản lý đầu bếp(xem)
+	+ Quản lý bàn
+	+ Checkin(Đặt bàn, chọn đầu bếp, chọn món)
+	+ Checkout(Tính tiền, Feedback)
